@@ -14,7 +14,7 @@ VanillaJS (ES6 classes) and local storage
 
 # Screenshot
 
-<img src="images/pong.PNG">
+<img src="images/pong.PNG" width="500">
 
 # Credits
 
