@@ -8,9 +8,9 @@ Players use paddles to hit a ball back and forth on a black screen. Player 1 use
 
 Just download the zip package, open the .html file and have fun!
 
-## Tools & Technologies
+## Technology
 
-VanillaJS (ES6 classes) and local storage
+VanillaJS
 
 ## Screenshot
 
